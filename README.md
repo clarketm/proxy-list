@@ -4,7 +4,7 @@ A list of free, public, forward proxy servers.
 ### Download
 ```bash
 # Download and save to local file `proxt-list.txt` with format `IP:PORT`
-curl -s "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list.txt" | sed '1,3d; $d; s/\s.*//g;' > proxy-list.txt
+curl -s "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list.txt" | sed '1,2d; $d; s/\s.*//; /^$/d' > proxy-list.txt
 ```
 
 ### Format
