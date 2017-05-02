@@ -60,8 +60,8 @@ IP [1]
 
 1. IP address
 2. Status
-   success = low latency (< 10 seconds)
-   failure = high latency (> 10 seconds)
+   success = low latency (0-9 seconds)
+   failure = high latency (10+ seconds)
 ```
 
 ### References
