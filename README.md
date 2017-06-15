@@ -70,4 +70,4 @@ IP [1]
 
 ## :star: Credits
 Proxy server data courtesy of: 
-* [Proxyspy](http://txt.proxyspy.net/proxy.txt)
+* [Proxyspy](http://spys.me/proxy.txt)
