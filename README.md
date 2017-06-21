@@ -1,5 +1,5 @@
 # proxy-list
-A list of free, public, forward proxy servers.
+A list of free, public, forward proxy servers. UPDATED DAILY!
 
 ### Download
 ```bash
