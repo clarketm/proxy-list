@@ -1,5 +1,5 @@
 # proxy-list
-A list of free, public, forward proxy servers.
+A list of free, public, forward proxy servers. UPDATED WEEKLY!
 
 ### Download
 ```bash
@@ -70,4 +70,4 @@ IP [1]
 
 ## :star: Credits
 Proxy server data courtesy of: 
-* [Proxyspy](http://txt.proxyspy.net/proxy.txt)
+* [Proxyspy](http://spys.me/proxy.txt)
