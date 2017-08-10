@@ -299,8 +299,8 @@
 188.92.214.253: success
 177.200.220.25: success
 
-[1;32mSUCCESS rate:
+SUCCESS rate:
 56.00%
 
-[1;31mFAILURE rate:
+FAILURE rate:
 43.00%
