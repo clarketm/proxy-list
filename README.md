@@ -87,7 +87,7 @@ IP [1]
 # REFERER         | `Boolean`             | Supports REFERER request
 
 #######################################################################
-# EXAMPLES                                                            #
+#                           EXAMPLES                                  #
 #######################################################################
 
 #######################################################################
@@ -97,7 +97,7 @@ curl "http://pubproxy.com/api/proxy?limit=1&format=txt&type=socks5"
 > 110.73.11.181:8123
 
 #######################################################################
-# Retrieve two(2) http proxies that support https.                    #
+# Retrieve two(2) http proxies from the US that support https.        #
 #######################################################################
 curl "http://pubproxy.com/api/proxy?limit=1&format=txt&http=true&country=US&type=http"
 > 195.136.43.176:63909
