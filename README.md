@@ -76,7 +76,7 @@ IP [1]
 # LAST_CHECK      | 1-1000                | Last check time (in minutes)
 # LIMIT           | 1-20                  | Proxy results count  
 # COUNTRY         | US,CA,...             | Country of the proxy
-# NOT_COUNTRY     | MX,CA,...             | Avoid prox country
+# NOT_COUNTRY     | MX,CA,...             | Avoid proxy country
 # PORT            | `Number`              | Specify port number
 # GOOGLE          | `Boolean`             | Google passed proxies
 # HTTPS           | `Boolean`             | Supports HTTPS request
