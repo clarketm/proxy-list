@@ -71,3 +71,4 @@ IP [1]
 ## :star: Credits
 Proxy server data courtesy of: 
 * [Proxyspy](http://spys.me/proxy.txt)
+* [PubProxy](http://pubproxy.com/)
