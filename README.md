@@ -86,13 +86,19 @@ IP [1]
 # COOKIES         | `Boolean`             | Supports USER_AGENT request
 # REFERER         | `Boolean`             | Supports REFERER request
 
-# e.g.
+#######################################################################
+# EXAMPLES                                                            #
+#######################################################################
 
-# Retrieve one(1) socks5 proxy.
+#######################################################################
+# Retrieve one(1) socks5 proxy.                                       #
+#######################################################################
 curl "http://pubproxy.com/api/proxy?limit=1&format=txt&type=socks5"
 > 110.73.11.181:8123
 
-# Retrieve two(2) http proxies that support https.
+#######################################################################
+# Retrieve two(2) http proxies that support https.                    #
+#######################################################################
 curl "http://pubproxy.com/api/proxy?limit=1&format=txt&http=true&country=US&type=http"
 > 195.136.43.176:63909
 > 107.170.221.216:8080
