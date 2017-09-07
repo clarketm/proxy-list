@@ -24,8 +24,8 @@ IP [1]
 |   |   |  |  Type [5]
 |   |   |  |   |_ _ _ _
 |   |   |  |_ _ _ _ _  | Google passed [6]
-|   |   |_ _ _ _ _   | |  | 
-|   |_ _ _ _ _    |  | |  | 
+|   |   |_ _ _ _ _   | |  |
+|   |_ _ _ _ _    |  | |  |
 |             |   |  | |  |
 200.2.125.90:8080 AR-N-S! +
 
@@ -42,10 +42,10 @@ IP [1]
    S = HTTP/HTTPS
    ! = incoming IP different from outgoing IP
 6. Google passed
-   + = Yes 
+   + = Yes
    – = No
-   
-   
+
+
 #############################
 ### proxy-list-status.txt ###
 #############################
@@ -53,8 +53,8 @@ IP [1]
 IP [1]
 |
 | Status [2]
-|   |_ _ _ _ _    
-|             |   
+|   |_ _ _ _ _
+|             |
 200.2.125.90: success
 
 
@@ -69,12 +69,12 @@ IP [1]
 ```
 #######################################################################
 #     PARAMETER             VALUES                DESCRIPTION         #
-#######################################################################    
+#######################################################################
 # FORMAT          | json, txt             | Output format
 # LEVEL           | anonymous, elite      | Anonymity level
 # TYPE            | http, socks4, socks5  | Proxy protocol
 # LAST_CHECK      | 1-1000                | Last check time (in minutes)
-# LIMIT           | 1-20                  | Proxy results count  
+# LIMIT           | 1-20                  | Proxy results count
 # COUNTRY         | US,CA,...             | Country of the proxy
 # NOT_COUNTRY     | MX,CA,...             | Avoid proxy country
 # PORT            | `Number`              | Specify port number
@@ -109,6 +109,6 @@ curl "http://pubproxy.com/api/proxy?limit=1&format=txt&http=true&country=US&type
 * [Google passed proxy](https://www.my-proxy.com/blog/google-proxies-dead)
 
 ## :star: Credits
-Proxy server data courtesy of: 
-* [Proxyspy](http://spys.me/proxy.txt)
+Proxy server data courtesy of:
+* [Proxyspy](http://spys.one/pl.txt)
 * [PubProxy](http://pubproxy.com/)
