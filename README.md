@@ -1,5 +1,6 @@
 # proxy-list
 A list of free, public, forward proxy servers. UPDATED DAILY!
+[![proxy-list](/proxy.png)](https://github.com/clarketm/proxy-list)
 
 ### Download
 ```bash
