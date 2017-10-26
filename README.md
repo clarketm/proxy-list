@@ -11,7 +11,7 @@ curl -s "https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list
 ```
 
 ### Format
-```
+```bash
 ######################
 ### proxy-list.txt ###
 ######################
@@ -69,7 +69,8 @@ IP [1]
 
 ### API
 [PubProxy](http://pubproxy.com/) provides a free, robust [API](http://pubproxy.com/#settings) to narrow down the proxy to your desired specification.
-```
+
+```bash
 #######################################################################
 #     PARAMETER             VALUES                DESCRIPTION         #
 #######################################################################
