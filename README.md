@@ -114,5 +114,5 @@ curl "http://pubproxy.com/api/proxy?limit=1&format=txt&http=true&country=US&type
 
 ## :star: Credits
 Proxy server data courtesy of:
-* [Proxyspy](http://spys.one/pl.txt)
+* [Proxyspy](http://spys.me/proxy.txt)
 * [PubProxy](http://pubproxy.com/)
