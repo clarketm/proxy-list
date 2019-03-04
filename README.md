@@ -41,7 +41,7 @@ IP [1]
    A = Anonymity
    H = High anonymity
 5. Type
-     = HTTP
+   N = HTTP
    S = HTTP/HTTPS
    ! = incoming IP different from outgoing IP
 6. Google passed
