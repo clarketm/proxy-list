@@ -1,306 +1,171 @@
-5.160.85.4: success
-197.149.11.170: success
-85.234.35.150: success
-201.231.42.67: success
-78.140.20.18: success
-185.146.1.69: failure
-77.232.163.176: success
-80.153.31.197: success
-5.189.172.60: success
-203.99.110.214: success
-170.246.152.93: success
-178.124.157.226: success
-91.225.5.43: success
-185.94.218.57: success
-112.78.44.177: success
-203.81.93.238: success
-213.6.98.172: success
-144.217.22.142: success
-34.202.235.238: success
-68.183.108.196: success
-190.210.230.192: success
-77.48.23.181: success
-157.230.186.27: success
-103.94.169.21: success
-149.202.49.42: success
-202.52.248.129: success
-190.181.61.6: success
-103.76.13.18: failure
-3.0.239.184: success
-188.235.147.151: success
-86.125.38.153: success
-91.186.217.145: success
-180.242.207.11: success
-1.179.164.233: success
-41.76.37.102: success
-195.122.20.159: failure
-203.192.217.11: success
-103.94.6.18: success
-93.126.225.34: success
-185.225.17.68: success
-36.88.152.183: success
-185.7.169.143: success
-95.45.235.178: success
-1.0.179.145: success
-178.46.157.208: success
-41.215.26.182: success
-92.50.155.218: success
-58.96.148.182: failure
-217.150.56.125: success
-117.58.247.25: success
-173.249.35.163: success
-5.58.131.2: success
-54.39.24.32: success
-36.89.147.67: success
-178.33.39.70: success
-181.166.94.18: failure
-35.183.230.83: success
-190.151.94.2: success
-212.2.204.181: success
-36.89.65.253: success
-27.255.13.134: success
-41.139.223.242: success
-115.124.74.134: success
-188.170.182.154: success
-50.250.56.129: success
-202.169.43.219: failure
-116.212.131.166: success
-103.12.246.10: success
-103.116.86.28: success
-14.162.146.128: success
-52.79.138.9: success
-31.45.232.138: success
-40.114.109.214: success
-190.8.170.146: success
-213.145.145.78: success
-188.94.231.113: success
-43.230.129.74: success
-77.120.246.243: success
-103.12.112.242: success
-73.55.76.54: success
-212.83.180.65: success
-41.78.38.107: failure
-183.89.24.195: success
-170.81.169.222: success
-62.97.80.28: success
-85.114.25.202: success
-52.221.18.166: success
-185.49.58.88: success
-94.179.135.154: success
-211.24.102.168: success
-43.252.221.26: failure
-160.119.131.142: success
-124.41.196.13: success
-157.230.89.80: success
-193.30.121.46: success
-149.156.171.40: success
-45.7.238.250: success
-182.53.206.138: success
-102.164.252.24: success
-78.30.202.143: success
-84.239.35.108: success
-85.29.148.222: success
-85.9.217.48: success
-95.0.226.84: success
-3.85.194.232: success
-74.93.210.173: success
-218.48.229.153: success
-185.151.151.166: success
-171.100.2.154: success
-68.183.183.193: success
-103.110.43.3: success
-91.234.40.20: failure
-58.71.12.2: success
-103.25.195.2: success
-202.52.12.218: success
-54.189.198.106: success
-188.94.164.178: success
-66.42.92.45: success
-185.184.196.188: success
-118.172.93.16: failure
-12.131.20.2: success
-182.23.99.178: success
-222.165.214.98: success
-203.189.151.136: success
-54.39.177.249: success
-46.20.139.70: success
-62.122.99.235: success
-201.150.149.126: failure
-36.89.181.11: success
-171.97.194.143: success
-23.237.22.82: success
-85.133.130.131: success
-132.248.17.90: success
-13.114.159.59: success
-217.30.73.152: success
-94.154.85.214: success
-1.20.99.104: success
-96.88.30.253: success
-200.35.85.147: failure
-94.177.240.21: success
-14.207.35.232: success
-35.245.66.186: success
-24.41.166.42: success
-212.129.7.24: success
-45.248.147.1: failure
-183.89.196.34: success
-180.247.199.128: success
-68.183.176.180: success
-84.247.236.102: success
-202.70.82.253: success
-203.177.169.90: success
-71.183.100.76: failure
-202.27.212.17: failure
-110.39.10.114: success
-190.2.146.80: success
-50.250.144.57: success
-208.75.19.156: success
-123.108.251.180: success
-105.212.11.128: success
-118.175.93.102: success
-128.199.194.192: success
-14.102.29.167: success
-165.227.120.140: success
-212.42.113.240: success
-13.229.8.227: success
-103.19.110.177: success
-36.89.171.243: success
-202.166.201.65: success
-36.89.180.169: success
-180.183.243.4: success
-31.211.130.169: success
-157.230.44.89: success
-62.4.49.18: success
-202.178.123.102: success
-144.13.212.210: success
-36.37.81.135: success
-46.161.70.131: success
-5.149.205.141: success
-35.225.208.4: success
-212.56.218.90: success
-168.11.14.250: success
-162.220.108.59: failure
-31.134.106.66: success
-193.137.28.179: success
-202.182.164.165: success
-170.238.41.16: success
-103.89.253.22: success
-202.29.228.142: success
-196.11.84.106: failure
-18.216.5.98: failure
-50.242.47.41: success
-176.120.37.82: success
-49.145.113.139: success
-173.161.17.93: success
-75.149.104.77: success
-178.253.253.82: success
-36.89.148.33: success
-212.200.113.189: success
-41.242.166.233: success
-43.247.38.226: success
-202.162.198.5: success
-88.1.155.113: success
-109.238.222.5: success
-36.69.72.67: success
-160.218.116.34: success
-101.51.76.112: failure
-12.133.183.51: success
-178.128.208.74: success
-183.182.103.98: success
-103.76.23.171: success
-160.16.140.126: failure
-150.129.57.230: success
-120.29.124.131: success
-45.248.42.200: success
-77.28.96.206: failure
-78.62.214.242: success
-182.253.204.155: success
-41.193.15.6: failure
-62.117.73.154: success
-52.124.6.146: success
-180.148.4.194: success
-212.73.69.6: success
-185.132.196.102: success
-5.160.243.122: success
-77.232.162.105: success
-180.250.70.12: success
-162.144.220.192: success
-194.1.252.193: failure
-131.161.22.207: success
-41.77.23.125: success
-187.189.82.93: success
-202.138.248.2: success
-136.228.128.14: success
-180.250.45.26: success
-74.213.63.78: success
-117.121.207.13: success
-93.87.66.66: success
-46.209.109.40: success
-128.199.238.115: success
-180.252.146.47: success
-77.242.23.23: success
-202.166.173.81: success
-31.210.211.147: success
-180.183.50.224: success
-185.159.87.249: success
-91.225.226.39: success
-93.99.6.158: failure
-5.196.209.79: success
-159.203.153.71: success
-46.105.120.112: success
-182.52.51.10: success
-202.165.47.26: success
-109.252.235.182: success
-103.106.238.111: failure
-81.174.11.159: success
-190.152.14.122: success
-95.80.252.122: success
-195.201.106.71: success
-37.120.164.151: success
-36.72.229.102: success
-54.91.116.44: success
-94.130.98.54: success
-79.104.219.125: success
-77.92.128.2: success
-13.56.2.56: success
-36.68.48.64: success
-36.67.196.105: success
-3.8.121.95: success
-14.102.15.105: success
-36.91.63.234: failure
-36.81.254.17: success
-180.247.5.10: success
-159.192.101.10: success
-122.2.37.38: success
-84.46.167.73: success
-35.231.53.139: success
-118.174.220.101: success
-192.236.185.26: success
-190.131.203.90: success
-138.219.223.166: success
-36.91.130.213: success
-202.57.35.74: success
-41.221.97.190: success
-175.110.97.86: failure
-94.177.240.21: success
-5.133.24.191: success
-103.94.0.178: success
-3.16.82.24: success
-137.255.5.142: success
-37.123.132.163: success
-202.147.198.115: success
-186.46.136.70: success
-62.201.230.37: success
-149.248.33.121: success
-45.32.24.242: success
-68.183.185.17: success
-46.201.246.143: success
-47.52.25.16: success
-103.66.47.17: success
-180.214.247.82: success
+
+
+
+NAME:
+	 check – check if a TCP/UDP port is open on a host(s).
+
+SYNOPSIS:
+	 check [opts...] [[4mhostname...]
+
+OPTIONS:
+	 -h, --help                       	 Print options and usage information.
+	 -n, --noexit                     	 Continue processing hostnames on failure.
+	 -p, --port [4mport 			 Port number (default: 80).
+	 -s, --silent                     	 Suppress terminal output.
+	 -t, --timeout [4mseconds 			 Timeout for the connection (default: 5).
+	 --tcp                            	 TCP probe mode (default).
+	 --udp                            	 UDP probe mode.
+	 -v, --version                    	 Print current version number.
+
+EXIT CODE:
+	 0    	 SUCCESS: Port is open on the specified host.
+	 1    	 FAILURE: Port is closed on the specified host.
+	 2    	 ERROR: Option parsing error.
+	 3    	 ERROR: Option argument missing.
+	 4    	 ERROR: Invalid option argument.
+	 5    	 ERROR: GNU getopt not found on PATH.
+	 6    	 ERROR: Multiple probe modes.
+	 7    	 ERROR: General or unknown error.
+
+EXAMPLES:
+	 check "www.travismclarke.com" "www.google.com" --port 443 --timeout 3
+
+
+
+
+
+NAME:
+	 check – check if a TCP/UDP port is open on a host(s).
+
+SYNOPSIS:
+	 check [opts...] [[4mhostname...]
+
+OPTIONS:
+	 -h, --help                       	 Print options and usage information.
+	 -n, --noexit                     	 Continue processing hostnames on failure.
+	 -p, --port [4mport 			 Port number (default: 80).
+	 -s, --silent                     	 Suppress terminal output.
+	 -t, --timeout [4mseconds 			 Timeout for the connection (default: 5).
+	 --tcp                            	 TCP probe mode (default).
+	 --udp                            	 UDP probe mode.
+	 -v, --version                    	 Print current version number.
+
+EXIT CODE:
+	 0    	 SUCCESS: Port is open on the specified host.
+	 1    	 FAILURE: Port is closed on the specified host.
+	 2    	 ERROR: Option parsing error.
+	 3    	 ERROR: Option argument missing.
+	 4    	 ERROR: Invalid option argument.
+	 5    	 ERROR: GNU getopt not found on PATH.
+	 6    	 ERROR: Multiple probe modes.
+	 7    	 ERROR: General or unknown error.
+
+EXAMPLES:
+	 check "www.travismclarke.com" "www.google.com" --port 443 --timeout 3
+
+
+
+
+
+NAME:
+	 check – check if a TCP/UDP port is open on a host(s).
+
+SYNOPSIS:
+	 check [opts...] [[4mhostname...]
+
+OPTIONS:
+	 -h, --help                       	 Print options and usage information.
+	 -n, --noexit                     	 Continue processing hostnames on failure.
+	 -p, --port [4mport 			 Port number (default: 80).
+	 -s, --silent                     	 Suppress terminal output.
+	 -t, --timeout [4mseconds 			 Timeout for the connection (default: 5).
+	 --tcp                            	 TCP probe mode (default).
+	 --udp                            	 UDP probe mode.
+	 -v, --version                    	 Print current version number.
+
+EXIT CODE:
+	 0    	 SUCCESS: Port is open on the specified host.
+	 1    	 FAILURE: Port is closed on the specified host.
+	 2    	 ERROR: Option parsing error.
+	 3    	 ERROR: Option argument missing.
+	 4    	 ERROR: Invalid option argument.
+	 5    	 ERROR: GNU getopt not found on PATH.
+	 6    	 ERROR: Multiple probe modes.
+	 7    	 ERROR: General or unknown error.
+
+EXAMPLES:
+	 check "www.travismclarke.com" "www.google.com" --port 443 --timeout 3
+
+
+
+
+
+NAME:
+	 check – check if a TCP/UDP port is open on a host(s).
+
+SYNOPSIS:
+	 check [opts...] [[4mhostname...]
+
+OPTIONS:
+	 -h, --help                       	 Print options and usage information.
+	 -n, --noexit                     	 Continue processing hostnames on failure.
+	 -p, --port [4mport 			 Port number (default: 80).
+	 -s, --silent                     	 Suppress terminal output.
+	 -t, --timeout [4mseconds 			 Timeout for the connection (default: 5).
+	 --tcp                            	 TCP probe mode (default).
+	 --udp                            	 UDP probe mode.
+	 -v, --version                    	 Print current version number.
+
+EXIT CODE:
+	 0    	 SUCCESS: Port is open on the specified host.
+	 1    	 FAILURE: Port is closed on the specified host.
+	 2    	 ERROR: Option parsing error.
+	 3    	 ERROR: Option argument missing.
+	 4    	 ERROR: Invalid option argument.
+	 5    	 ERROR: GNU getopt not found on PATH.
+	 6    	 ERROR: Multiple probe modes.
+	 7    	 ERROR: General or unknown error.
+
+EXAMPLES:
+	 check "www.travismclarke.com" "www.google.com" --port 443 --timeout 3
+
+
+
+
+
+NAME:
+	 check – check if a TCP/UDP port is open on a host(s).
+
+SYNOPSIS:
+	 check [opts...] [[4mhostname...]
+
+OPTIONS:
+	 -h, --help                       	 Print options and usage information.
+	 -n, --noexit                     	 Continue processing hostnames on failure.
+	 -p, --port [4mport 			 Port number (default: 80).
+	 -s, --silent                     	 Suppress terminal output.
+	 -t, --timeout [4mseconds 			 Timeout for the connection (default: 5).
+	 --tcp                            	 TCP probe mode (default).
+	 --udp                            	 UDP probe mode.
+	 -v, --version                    	 Print current version number.
+
+EXIT CODE:
+	 0    	 SUCCESS: Port is open on the specified host.
+	 1    	 FAILURE: Port is closed on the specified host.
+	 2    	 ERROR: Option parsing error.
+	 3    	 ERROR: Option argument missing.
+	 4    	 ERROR: Invalid option argument.
+	 5    	 ERROR: GNU getopt not found on PATH.
+	 6    	 ERROR: Multiple probe modes.
+	 7    	 ERROR: General or unknown error.
+
+EXAMPLES:
+	 check "www.travismclarke.com" "www.google.com" --port 443 --timeout 3
+
+
 
 SUCCESS rate:
-91.00%
+100.00%
 
 FAILURE rate:
-9.00%
+0%
