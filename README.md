@@ -103,7 +103,7 @@ curl "http://pubproxy.com/api/proxy?limit=1&format=txt&type=socks5"
 #######################################################################
 # Retrieve two(2) http proxies from the US that support https.        #
 #######################################################################
-curl "http://pubproxy.com/api/proxy?limit=1&format=txt&http=true&country=US&type=http"
+curl "http://pubproxy.com/api/proxy?limit=2&format=txt&http=true&country=US&type=http"
 > 195.136.43.176:63909
 > 107.170.221.216:8080
 ```
