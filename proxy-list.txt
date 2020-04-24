@@ -1,12 +1,3 @@
-Proxy list updated at Fri, 24 Apr 20 07:55:10 +0300
-Mirrors=http://spys.me/proxy.txt https://t.me/spys_one
-Support by donations:
-BTC 1H1ZH7WJVzU7GMDSwsAQrqvGrbLY49wdae
-ETC 0xd1Cf57E35003aD846524a7778D99e8856B96C241
-BCH 19o72EjQw3mEYNciZ4JxvpDmUbjjtXghBb
-LTC LMrLZNWGYK3kMHvyioBqZdXYWE3pKj7xZX
-IP address:Port Country-Anonymity(Noa/Anm/Hia)-SSL_support(S)-Google_passed(+)
-
 177.137.126.83:8080 BR-N-S + 
 197.216.2.14:8080 AO-H-S! + 
 134.249.156.228:82 UA-N-S - 
@@ -307,5 +298,3 @@ IP address:Port Country-Anonymity(Noa/Anm/Hia)-SSL_support(S)-Google_passed(+)
 114.7.202.209:8080 ID-N! - 
 45.71.114.131:999 EC-N-S - 
 139.162.22.137:8080 SG-N - 
-
-Free HTTP/HTTPS(SSL) proxy list only. Text format. Updated hourly.
