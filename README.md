@@ -86,8 +86,8 @@ IP [1]
 # HTTPS           | `Boolean`             | Supports HTTPS request
 # GET             | `Boolean`             | Supports GET request
 # POST            | `Boolean`             | Supports POST request
-# USER_AGENT      | `Boolean`             | Supports COOKIES request
-# COOKIES         | `Boolean`             | Supports USER_AGENT request
+# USER_AGENT      | `Boolean`             | Supports USER_AGENT request
+# COOKIES         | `Boolean`             | Supports COOKIES request
 # REFERER         | `Boolean`             | Supports REFERER request
 
 #######################################################################
