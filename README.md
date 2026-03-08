@@ -108,6 +108,61 @@ curl "http://pubproxy.com/api/proxy?limit=2&format=txt&http=true&country=US&type
 > 107.170.221.216:8080
 ```
 
+# php - example
+Get a random proxy in the $line var and update the list every 24 hours.
+//load proxy list
+if (time()-filemtime($filename) > 24 * 3600 || file_exists("proxy-list-status.txt")==false) {
+                       
+                       //Options
+                        $max_time_ms=300;
+    
+    
+    
+                        // file older than 24 hours
+                        //download filelist
+                        file_put_contents("proxy-list-status.txt",file_get_contents("https://raw.githubusercontent.com/clarketm/proxy-list/master/proxy-list-status.txt"));
+                        chmod("proxy-list-status.txt", 0600);
+
+
+
+                        //delete all lines not success
+                    $fn = fopen("proxy-list-status.txt","r");
+
+                    $res_text="";
+                    
+                    while(! feof($fn))  {
+                    $result = fgets($fn);
+                    if(strpos($result,"success") !== false){
+                                $result = str_replace("=> success", "", $result);
+
+                                if(test_proxy_speed($proxy)<$max_time_ms){
+                                        $res_text .= $result;
+                                }
+                                
+                    }
+                    }
+
+                    fclose($fn);
+
+
+                    //Write proxy file
+                    file_put_contents("proxy-list-status.txt",$res_text );
+                    chmod("proxy-list-status.txt", 0600);
+
+
+  } 
+
+
+
+
+//random line
+$f_contents = file("proxy-list-status.txt"); 
+$line = $f_contents[rand(0, count($f_contents) - 1)];
+
+
+
+
+
 ### References
 * [ISO 3166-1 alpha-2 country code](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2)
 * [Google passed proxy](https://www.my-proxy.com/blog/google-proxies-dead)
